@@ -5,7 +5,9 @@ During this project I will create color schemes based on Vtubers (form of conten
 ##Repositories
 
 Scheme Files: https://github.com/fm3chanic/color_schemes
+
 Notepad++ Themes: https://github.com/fm3chanic/npp_themes
+
 Windows Terminal Themes: https://github.com/fm3chanic/windows_terminal_themes
 
 ##Planning & Release Schedule

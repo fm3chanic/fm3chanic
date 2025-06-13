@@ -11,4 +11,5 @@ Outside of work I do smaller development projects, theming projects (like the cu
 I am currently working on a project to built color schemes based on Vtubers (form of content creators) and create theme files for the open source text editor Notepad++ and Windows terminal emulator.
 
 Further information regarding the Vtuber project: https://github.com/fm3chanic
+
 HTML-scheme files for all color themes: https://github.com/fm3chanic/color_schemes
