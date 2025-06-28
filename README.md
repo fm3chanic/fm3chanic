@@ -10,5 +10,5 @@ Outside of work I do smaller development projects, theming projects (like the cu
 ### Current Project:
 I am currently working on a project to built color schemes based on Vtubers (form of content creators) and create theme files texteditors and terminals.
 
-You can find [further information](https://github.com/fm3chanic/vtuber_project) regarding the Vtuber project and the currently supported ports [here](https://github.com/fm3chanic/vtuber_project).<br>
-You can find [HTML reference sheets](https://github.com/fm3chanic/color_schemes) for all color themes [here](https://github.com/fm3chanic/color_schemes).
+You can find [further information](https://github.com/fm3chanic/vtuber_project) regarding the Vtuber project and the currently supported apps [here](https://github.com/fm3chanic/vtuber_project).<br>
+You can find [HTML reference sheets](https://github.com/fm3chanic/color_schemes) for all my color themes [here](https://github.com/fm3chanic/color_schemes).
